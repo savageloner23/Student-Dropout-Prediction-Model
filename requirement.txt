@@ -7,3 +7,4 @@ matplotlib==3.8.1
 seaborn==0.12.3
 imbalanced-learn==1.11.0
 Python
+plotly==5.18.0
